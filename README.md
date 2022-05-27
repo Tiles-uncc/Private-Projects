@@ -9,7 +9,7 @@ In this repository, you will find code and assignment details regard every proje
 * An AI that utilizies Neural Networking for regress and classification
 * An AI that uses Four Linear Regression Algorithms to Predict the House Prices for Boston homes.
 
-For a more detailed explaination on each of the project, each project will be covered more throughly in this README.
+For a brief description on each of the projects and to guide you through the projects, read through the README.
 
 ## Maze Search AI
 
