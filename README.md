@@ -33,4 +33,4 @@ This AI was also worked on while I was in my Introduction to Machine Learning cl
 
 ## Regression AI
 
-This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Regression algorithms to predict the Housing Price of Boston Homes using a dataset. I worked on the AI from March 7th, 2022 through March 14th, 2022. For more assignment details and grading, see the [Jupyter Notebook](regression/1-linear-regression.ipynb) with the [regression](regression) directory.
+This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Regression algorithms to predict the Housing Price of Boston Homes using a dataset. I worked on the AI from March 7th, 2022 through March 14th, 2022. The [README](regression/README.md) with the directory decribes how to set up a new environment in Anaconda to run the files. For more assignment details and grading, see the [Jupyter Notebook](regression/1-linear-regression.ipynb) with the [regression](regression) directory.
