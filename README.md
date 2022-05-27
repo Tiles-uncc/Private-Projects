@@ -13,7 +13,7 @@ For a more detailed explaination on each of the project, each project will be co
 
 ## Maze Search AI
 
-These Python files were what I worked on when I was in my Intro to Artifical Intelligence class. My group and I worked on some of this code together, but the final submission, which is present here, was my individual submission. Our group started working on this project on September 30th, 2021, and I ended up wrapping up the project around October 17th, 2021. A quick note, the Local Search Algorithm was never finished and thus never met assignment expectations, but I chose to share it anyways to demonstrate my fundamental understanding of a local search algorithm, even if that understanding seem rudimentary. For more assignment details vist the [Maze Search AI](Maze%20Search%20AI) directory and look for the pdf that says "[Searching assignments (2).pdf](Maze%20Search%20AI/Searching%20assignments%20(2).pdf)". The report is also in the directory, though it did not go into as much detail as the teacher wanted.
+These Python files were what I worked on when I was in my Intro to Artifical Intelligence class. My group and I worked on some of this code together, but the final submission, which is present here, was my individual submission. Our group started working on this project on September 30th, 2021, and I ended up wrapping up the project around October 17th, 2021. A quick note, the Local Search Algorithm was never finished and thus never met assignment expectations, but I chose to share it anyways to demonstrate my fundamental understanding of a local search algorithm, even if that understanding seem rudimentary. For more assignment details visit the [Maze Search AI](Maze%20Search%20AI) directory and look for the pdf that says "[Searching assignments (2).pdf](Maze%20Search%20AI/Searching%20assignments%20(2).pdf)". The report is also in the directory, though it did not go into as much detail as the teacher wanted.
 
 ## TCP/IP and UDP Simulation
 
@@ -25,12 +25,12 @@ The Value Iteration AI was another project I worked on in my Intro to AI class. 
 
 ## Classification AI
 
-This AI was worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Classification algorithms to classify handwritten digits given in the MNIST dataset. I worked on the AI from April 4th, 2022 through April 11th, 2022. For more assignment details and grading, see the [Jupyter Notebook](classification/2-classification.ipynb) with the [classification](classification) directory.
+This AI was worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Classification algorithms to classify handwritten digits given in the MNIST dataset. I worked on the AI from April 4th, 2022 through April 11th, 2022. For more assignment details and grading, see the [Jupyter Notebook](classification/2-classification.ipynb) within the [classification](classification) directory.
 
 ## Nerual Networks AI
 
-This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Neural Networks to enhance classification and regression algorithms. I worked on the AI from May 2nd, 2022 through May 9th, 2022. For more assignment details and grading, see the [Jupyter Notebook](neural_networks/3-neural-networks.ipynb) with the [neural_networks](neural_networks) directory.
+This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Neural Networks to enhance classification and regression algorithms. I worked on the AI from May 2nd, 2022 through May 9th, 2022. For more assignment details and grading, see the [Jupyter Notebook](neural_networks/3-neural-networks.ipynb) within the [neural_networks](neural_networks) directory.
 
 ## Regression AI
 
-This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Regression algorithms to predict the Housing Price of Boston Homes using a dataset. I worked on the AI from March 7th, 2022 through March 14th, 2022. The [README](regression/README.md) with the directory decribes how to set up a new environment in Anaconda to run the files. For more assignment details and grading, see the [Jupyter Notebook](regression/1-linear-regression.ipynb) with the [regression](regression) directory.
+This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Regression algorithms to predict the Housing Price of Boston Homes using a dataset. I worked on the AI from March 7th, 2022 through March 14th, 2022. The [README](regression/README.md) with the directory decribes how to set up a new environment in Anaconda to run the files. For more assignment details and grading, see the [Jupyter Notebook](regression/1-linear-regression.ipynb) within the [regression](regression) directory.
