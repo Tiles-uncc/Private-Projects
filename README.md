@@ -18,7 +18,7 @@ These Python files were what I worked on when I was in my Intro to Artifical Int
 ## TCP/IP and UDP Simulation
 
 These files were a part of my Intro to Computer Networks class. In the class we were tasked to simulate a client-server socket utilizing TCP and UDP protocols. The four files were the result. Note that the file name "main.py" is the TCP Server side of the TCP simulation. For more assignment details, see the README in the 
-[Server-Client Simulation](Tiles-uncc/My_Projects/tree/main/Server-Client%20Simulation) directory. Also, in case in needs to be iterated, the four .py files and screenshots were put in a .zip before submission.
+[Server-Client Simulation](tree/main/Server-Client%20Simulation) directory. Also, in case in needs to be iterated, the four .py files and screenshots were put in a .zip before submission.
 
 ## Value Iteration AI
 
