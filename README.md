@@ -34,3 +34,5 @@ This AI was also worked on while I was in my Introduction to Machine Learning cl
 ## Regression AI
 
 This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Regression algorithms to predict the Housing Price of Boston Homes using a dataset. I worked on the AI from March 7th, 2022 through March 14th, 2022. For more assignment details and grading, see the Jupyter Notebook with the "classification" directory.
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
