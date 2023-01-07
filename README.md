@@ -39,10 +39,12 @@ This AI was also worked on while I was in my Introduction to Machine Learning cl
 
 ## Pacman
 This is a recreating of Pacman coded in Unity with the help of a YouTube tutorial. The link to the tutorial and game are down below.
+
 https://drive.google.com/file/d/1qlvLt1MzbW-reNmIToiJtKmDksvomSnY/view?usp=sharing
 
 https://www.youtube.com/watch?v=TKt_VlMn_aA&ab_channel=Zigurous
 
 ## Platformer Prototype
 This is a 2D platformer game prototype developed in Unity. All assets are mine except for the coins and player model. Link to the game is down below.
+
 https://drive.google.com/file/d/1aPU45ozzu0kPRFu8vstIiEBjnqDJfy5m/view?usp=sharing
