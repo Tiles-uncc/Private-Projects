@@ -38,11 +38,16 @@ This AI was also worked on while I was in my Introduction to Machine Learning cl
 This AI was also worked on while I was in my Introduction to Machine Learning class. It was my job to code an AI that uses Regression algorithms to predict the housing prices of Boston homes using a related dataset. I worked on the AI from March 7th, 2022 through March 14th, 2022. The [README](regression/README.md) within the [regression](regression) repository describes how to set up a new environment in Anaconda to run the files. For more assignment details and grading, see the [Jupyter Notebook](regression/1-linear-regression.ipynb) within the [regression](regression) repository.
 
 ## Pacman
-This is a recreating of Pacman coded in Unity with the help of a YouTube tutorial. The link to the tutorial and game are down below.
+This is a recreation of Pacman coded in Unity with the help of a YouTube tutorial. The link to the tutorial and game are down below.
 
 https://drive.google.com/file/d/1qlvLt1MzbW-reNmIToiJtKmDksvomSnY/view?usp=sharing
 
 https://www.youtube.com/watch?v=TKt_VlMn_aA&ab_channel=Zigurous
+
+## Marble Race
+This is an original prototype game based on Super Monkey Ball. Link to the download is down below.
+
+https://drive.google.com/file/d/1hn1sz4GW4pjOinl69XI0tRRzb5i3vkZJ/view?usp=sharing
 
 ## Platformer Prototype
 This is a 2D platformer game prototype developed in Unity. All assets are mine except for the coins and player model. Link to the game is down below.
