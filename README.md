@@ -45,11 +45,11 @@ https://drive.google.com/file/d/1qlvLt1MzbW-reNmIToiJtKmDksvomSnY/view?usp=shari
 https://www.youtube.com/watch?v=TKt_VlMn_aA&ab_channel=Zigurous
 
 ## Marble Race
-This is an original prototype game based on Super Monkey Ball. Link to the download is down below.
+This is an original prototype game based on Super Monkey Ball. The link to the download is down below.
 
 https://drive.google.com/file/d/1hn1sz4GW4pjOinl69XI0tRRzb5i3vkZJ/view?usp=sharing
 
 ## Platformer Prototype
-This is a 2D platformer game prototype developed in Unity. All assets are mine except for the coins and player model. Link to the game is down below.
+This is a 2D platformer game prototype developed in Unity. All assets are mine except for the coins and player model. The link to the game is down below.
 
 https://drive.google.com/file/d/1aPU45ozzu0kPRFu8vstIiEBjnqDJfy5m/view?usp=sharing
