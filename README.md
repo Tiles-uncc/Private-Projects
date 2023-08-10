@@ -9,6 +9,7 @@ In this repository, you will find code and assignment details regarding every pr
 * An AI that utilizes neural networking for regression and classification algorithms
 * An AI that uses four linear regression algorithms to predict the house prices of Boston homes.
 * A recreation of Pacman
+* A 3D prototype based off of Super Monkey Ball
 * A platformer game prototype
 
 For a brief description of each of the projects and to guide you, the reader, through the projects, read through the README.
